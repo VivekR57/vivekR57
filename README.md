@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello! I'm [VIVEK], an aspiring Embedded Software Developer learning C, C++, microcontrollers, and <br>Linux. I’m passionate about building efficient solutions for embedded systems and focusing on <br>data structures and algorithms to improve my coding skills.
 
+![image](https://github.com/user-attachments/assets/2550ddd2-9172-46d8-ba0a-a19960b7b9c2)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_vb_57) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek57) 
