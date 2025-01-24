@@ -17,4 +17,8 @@ Hello! I'm [VIVEK], an aspiring Embedded Software Developer learning C, C++, mic
 ---
 [![](https://visitcount.itsvg.in/api?id=VivekR57&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![](https://komarev.com/ghpvc/?username=VivekR57&color=brightgreen)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
